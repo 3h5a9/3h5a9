@@ -54,7 +54,7 @@
 
 
 ![sm-ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-ehsan&show_icons=true&theme=vue)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sm-ehsan&theme=vue)](https://git.io/streak-stats)
 
 <!---
 sm-ehsan/sm-ehsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
