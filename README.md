@@ -1,13 +1,11 @@
+```🫡 Assalamu Walaikum```
+
 ``` 
- 👋 Hi, I’m @sm-ehsan from Rajshahi, Bangladesh. 🇧🇩
+ 👋 I’m @sm-ehsan, a self-tought full stack web developer from Rajshahi, Bangladesh. 🇧🇩
  
  👀 I’m interested in ... ruby on rails.
  
  🌱 Learning is a never ending process, so never stop Learning, because live never stop Teaching.
- 
- 💞️ I’m looking to collaborate on open source project.
- 
- 📫 How to reach me ...
 ```
  
  
