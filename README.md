@@ -8,9 +8,7 @@
  🌱 Learning is a never ending process, so never stop Learning, because life never stop Teaching.
 ```
  
- 
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=3h5a9&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
