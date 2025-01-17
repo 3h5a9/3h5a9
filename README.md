@@ -49,7 +49,3 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![FEDORA](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-![sm-ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=3h5a9&show_icons=true&theme=vue)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3h5a9&theme=vue)](https://git.io/streak-stats)
